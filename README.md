@@ -40,7 +40,7 @@ Livrables disponibles dans le dossier `CL_P4_realisez-une-etude-de-sante-publiqu
 `Python (pandas)` · `Jupyter Notebook` · `Jointures` · `Agrégations` · `RGPD`
 
 ## Résultat
-Projet **validé**. La compétence « Explorer et analyser des données en utilisant des langages et outils métiers » a été acquise. Lors de la soutenance, la discussion a porté sur la propreté et l'organisation du code, les jointures, la restriction, l'agrégation et le respect du RGPD.
+Projet **validé** (évaluateur Anouar Dalli, 2 novembre 2025). La compétence « Explorer et analyser des données en utilisant des langages et outils métiers » a été acquise : analyse des données avec Python. Point fort : notebook lisible et commenté. Axe d'amélioration : « Charles est sur le bon chemin, continue dans ce sens ». Soutenance : durée respectée, bonnes réponses aux questions ; la discussion a porté sur la propreté et l'organisation du code, les jointures, la restriction, l'agrégation et le respect du RGPD.
 
 ---
 
