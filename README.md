@@ -1,4 +1,4 @@
-# Projet 4 — Réalisez une étude de santé publique avec R ou Python
+# Projet 4 : Réalisez une étude de santé publique avec R ou Python
 
 ![Statut](https://img.shields.io/badge/Statut-Valid%C3%A9-2ea44f)
 ![Charge](https://img.shields.io/badge/Charge-80h-blue)
